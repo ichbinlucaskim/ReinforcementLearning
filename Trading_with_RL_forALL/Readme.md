@@ -2,7 +2,8 @@
 
 I would like to express sincere gratitude to '[pylessons](https://pylessons.com/RL-BTC-BOT-backbone)'.
 
->The purpose of this project is 'to provide a guideline for understanding the basic concepts of Reinforcement Learning and its application.'
+>The purpose of this project is
+>'to provide a guideline for understanding the basic concepts of Reinforcement Learning and its application.'
 >
 >If you would like to run all the codes, please ensure these are all set to the same.
 
