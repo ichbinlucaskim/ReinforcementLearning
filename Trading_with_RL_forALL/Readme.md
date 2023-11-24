@@ -11,4 +11,4 @@ I would like to express sincere gratitude to '[pylessons](https://pylessons.com/
 ![image](https://github.com/ICHBINLUCASKIM/ReinforcementLearning/blob/main/Trading_with_RL_forALL/setting.png?raw=true)
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j0KudLu2bKSdPSdCrqFr9ycncw9CIbEc?usp=sharing)
-- [Original Gihub](https://github.com/pythonlessons/RL-Bitcoin-trading-bot) Written by Obsidian
+- [Original Gihub](https://github.com/pythonlessons/RL-Bitcoin-trading-bot) Written by Pylessons
