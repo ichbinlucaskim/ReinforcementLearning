@@ -1,6 +1,6 @@
 # Trading_with_RL_forALL
 
-I would like to express sincere gratitude to '[pylessons](https://pylessons.com/RL-BTC-BOT-backbone)'.
+I would like to express sincere gratitude to '[Pylessons](https://pylessons.com/RL-BTC-BOT-backbone)'.
 
 >The purpose of this project is
 >
