@@ -8,7 +8,7 @@ I would like to express sincere gratitude to '[pylessons](https://pylessons.com/
 >
 >If you would like to run all the codes, please ensure these are all set to the same.
 
-![image](https://github.com/ICHBINLUCASKIM/ReinforcementLearning/assets/125564751/d4b10c83-078c-406f-8b73-def4be16ecce)
+![image]([https://github.com/ICHBINLUCASKIM/ReinforcementLearning/assets/125564751/d4b10c83-078c-406f-8b73-def4be16ecce](https://github.com/ICHBINLUCASKIM/ReinforcementLearning/blob/main/Trading_with_RL_forALL/setting.png?raw=true))
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j0KudLu2bKSdPSdCrqFr9ycncw9CIbEc?usp=sharing)
 - [Original Gihub](https://github.com/pythonlessons/RL-Bitcoin-trading-bot) Written by Obsidian
