@@ -5,4 +5,4 @@ Studying and applying RL
 
 ## Projects
 
-- [Trading_with_RL_forALL](https://github.com/ICHBINLUCASKIM/ReinforcementLearning/tree/main/Trading_with_RL_forALL)
+- [Reinforcement Learning in Cryptocurrency](https://github.com/ICHBINLUCASKIM/ReinforcementLearning/tree/main/Trading_with_RL_forALL)
