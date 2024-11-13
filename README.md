@@ -1,4 +1,4 @@
-# ReinforcementLearning
+# Reinforcement Learning
 Studying and applying RL
 
 ## Paper Review
