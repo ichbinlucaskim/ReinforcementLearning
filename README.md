@@ -1,5 +1,5 @@
 # ReinforcementLearning
-I wanna be a RL Researcher
+Studying and applying RL
 
 ## Paper Review
 
