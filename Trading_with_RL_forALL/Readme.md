@@ -1,4 +1,4 @@
-# Trading_with_RL_forALL
+# Reinforcement Learning in Cryptocurrency
 
 I would like to express sincere gratitude to '[Pylessons](https://pylessons.com/RL-BTC-BOT-backbone)'.
 
